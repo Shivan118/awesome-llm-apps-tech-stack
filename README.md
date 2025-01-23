@@ -120,9 +120,9 @@ A Large Language Model (LLM) Engineer works with advanced NLP models like GPT, B
 
 | Course Name | Link | 
 |-|-|
-|Data Science Architecture and Interview Bootcamp|[Click here](https://euron.one/course/data-science-architecture-and-interview-bootcamp?ref=7C9EDDAA)|-|
-|Full Stack Data Science|[Click here](https://euron.one/course/full-stack-data-science?ref=7C9EDDAA)|-|
-|Generative AI Masters|[Click here](https://euron.one/course/generative-ai-masters?ref=7C9EDDAA)|-|
+|Data Science Architecture and Interview Prepration|[Click here](https://euron.one/course/data-science-architecture-and-interview-bootcamp?ref=7C9EDDAA)|-|
+|Learn End to End Data Science|[Click here](https://euron.one/course/full-stack-data-science?ref=7C9EDDAA)|-|
+|Learn End to End Generative AI|[Click here](https://euron.one/course/generative-ai-masters?ref=7C9EDDAA)|-|
 
 ---
 
