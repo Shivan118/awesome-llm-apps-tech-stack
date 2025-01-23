@@ -116,6 +116,15 @@ A Large Language Model (LLM) Engineer works with advanced NLP models like GPT, B
 - **Edge AI**: Deploying models on edge devices for efficient inference.  
 
 ---
+### Best Course to Learn Data Science & Generation AI From basics to Advanced
+
+| Course Name | Link | 
+|-|-|
+|Data Science Architecture and Interview Bootcamp|[Click here](https://euron.one/course/data-science-architecture-and-interview-bootcamp?ref=7C9EDDAA)|-|
+|DVC|https://dvc.org/|-|
+|ZenML|https://zenml.io/home|-|
+|Evedently AI|(https://www.evidentlyai.com/)|-|
+---
 
 ### Summary  
 An LLM engineer must blend a deep understanding of ML/NLP concepts with practical skills in engineering and deployment. Mastery of frameworks like Hugging Face, experience in fine-tuning LLMs, and awareness of ethical AI principles are crucial for success in this field.  
